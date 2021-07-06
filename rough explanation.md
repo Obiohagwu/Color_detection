@@ -1,3 +1,5 @@
+# Rough Explanation
+
 Rough Explanation of some things
 
 The first few lines of code are relatively unimportant as they are used to implement the argument parser, which is used to  input user image from command line
